@@ -1,4 +1,4 @@
-#Hi, I'm Matteo Giganti 👋
+# Hi, I'm Matteo Giganti 👋
 MSc student in Artificial Intelligence & Data Analytics at Sapienza University of Rome, currently on Erasmus at ISEP Paris, with a background in Management Engineering. I use data to answer product and business questions with SQL, R and Python.
 
 **Terna Energy Data** – 10 analytical questions on ~614,000 rows of Italian power-grid data, answered in PostgreSQL, MongoDB and Neo4j, with query runtime cut from 9.7 s to 15 ms (team project).
